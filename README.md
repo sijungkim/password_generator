@@ -6,9 +6,6 @@
 
 Synergy OS와 함께 진행한 첫 번째 포트폴리오 프로젝트입니다. Python의 객체 지향 프로그래밍(OOP) 원칙을 깊이 있게 학습하고 적용하는 것을 목표로 제작한 웹 기반 암호 생성 애플리케이션입니다.
 
-(여기에 애플리케이션 스크린샷을 추가하면 좋습니다.)
-![App Screenshot](https://via.placeholder.com/700x400.png?text=App+Screenshot+Here)
-
 ---
 
 ## 🚀 주요 기능 (Features)
